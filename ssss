@@ -1,0 +1,14 @@
+ user_id |       email        | password 
+---------+--------------------+----------
+       1 | test@test.test     | test
+       2 | bob@bobmail.com    | bob
+       3 | dj.judd@gmail.com  | password
+       4 | greg@bobmail.com   | greg
+       6 | boat@bobmail.com   | greg
+       7 | car@bobmail.com    | greg
+       8 | plane@bobmail.com  | greg
+       9 | train@bobmail.com  | greg
+      10 | dave@bobmail.com   | dave
+      11 | yahcht@bobmail.com | greg
+(10 rows)
+
